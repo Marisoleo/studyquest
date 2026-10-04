@@ -1,1 +1,9 @@
-{"name":"StudyQuest 2","short_name":"StudyQuest","start_url":"./","display":"standalone","background_color":"#f5f6fb","theme_color":"#7c5cff"}
+{
+  "name": "StudyQuest Pro",
+  "short_name": "StudyQuest",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#faf9fc",
+  "theme_color": "#7564d8",
+  "description": "Dein persönlicher Lernraum"
+}
